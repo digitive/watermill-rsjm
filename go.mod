@@ -1,12 +1,11 @@
 module github.com/digitive/watermill-rsjm
 
-go 1.23.4
+go 1.22
 
 require (
 	github.com/ThreeDotsLabs/watermill v1.4.1
 	github.com/ThreeDotsLabs/watermill-redisstream v1.4.2
 	github.com/stretchr/testify v1.9.0
-	github.com/zeebo/assert v1.3.1
 )
 
 require (
